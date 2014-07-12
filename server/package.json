@@ -1,0 +1,15 @@
+{
+  "name": "bouncy-server",
+  "version": "0.0.1",
+  "description": "An IRC bouncer with a sane API",
+  "main": "bouncy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "irc": "git://github.com/scrollback/node-irc.git"
+  },
+  "author": "",
+  "license": "Apache"
+}
