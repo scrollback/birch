@@ -1,0 +1,11 @@
+{
+  "name": "birch",
+  "version": "0.0.0",
+  "description": "Client library for Birch, an IRC bouncer with a sane API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache"
+}
